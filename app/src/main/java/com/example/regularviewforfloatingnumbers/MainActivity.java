@@ -37,23 +37,8 @@ public class MainActivity extends AppCompatActivity {
     public String reg_view_for_flt(Double ssw)
     {
 
-        //double ssw = 554492345678.1235565;
+
         String re =ssw +"";
-
-/*
-  String after_e =  re.substring(re.indexOf("E")+1);
-        Integer after_e2 = Integer.parseInt(after_e);
-        String no_dot = re.replace(".","");
-     String before_dot = no_dot.substring(0,after_e2+1);
-
-        String after_dot = no_dot.substring(after_e2+1);
-
-      after_dot = after_dot.substring(0,after_dot.indexOf('E'));
-
-
-        return before_dot+"."+after_dot;
- */
-
 
 
 
